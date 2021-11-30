@@ -1,0 +1,95 @@
+
+*{
+    margin-left: 1em;
+    padding: 0;
+    
+}
+
+.name {
+    font-size: 3.5em;
+    margin: 0;
+    
+}
+
+.profile {
+    width: 10em;
+    
+}
+
+.link {
+    font-size: 1em;
+    text-decoration: none;
+    color: rgb(125, 125, 173);
+    margin: 4px 2px;
+}
+
+.link:hover {
+    color: rgb(74, 74, 233);
+    transition: 0.3s;
+}
+
+.fblogo, .linklogo {
+    width: 2em;
+    margin: 0;
+    
+}
+
+.fblogo:hover, .linklogo:hover {
+    background: fill;
+    background-color:rgb(74, 74, 233);
+    transition: 0.3s;
+}
+
+.heading {
+    margin: 40px 0 10px 0;
+    
+}
+
+table, th, td {
+    border: 1px solid rgb(125, 125, 173);
+    height: 30px;
+    width: 65%;
+    text-align: center;
+}
+
+.div {
+    width: 4em;
+}
+
+.code a {
+    text-decoration: none;
+    color: rgb(125, 125, 173);
+    margin: .3em;
+}
+
+.code p {
+    font-size: 17px;
+    margin-top: 0;
+}
+
+.contact {
+    padding: 1em;
+}
+
+.contact input {
+    height: 2em;
+}
+
+.msg label {
+    vertical-align: top;
+}
+
+.btn {
+    padding: .5em;
+    color: #fff;
+    background: rgb(125, 125, 173);
+    border: 2px solid rgb(125, 125, 173);
+    border-radius: 15px 0px 15px 0px;
+    margin-left: 14em;
+}
+
+.btn:hover {
+    color: rgb(125, 125, 173);
+    background: #fff;
+    transition: .5s; 
+}
